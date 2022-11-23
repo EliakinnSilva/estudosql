@@ -1,0 +1,45 @@
+	--use banco10
+	--CREATE TABLE Departamento( Numero INTEGER,
+	--Nome VARCHAR(50),
+	--Local VARCHAR(20),
+	--Orcamento DECIMAL(12,2) );
+
+	--SELECT * FROM Departamento;
+	--INSERT INTO Departamento
+
+	--( Numero, Nome, Local, Orcamento )
+
+	--VALUES
+
+	--( 70, 'Producao', 'Recife', 10000 );
+
+	--SELECT * FROM Departamento;
+
+	--UPDATE Departamento
+	--SET Nome = 'Pessoal'
+	--WHERE Nome = 'Producao';
+
+	--SELECT * FROM Departamento;
+	--DELETE FROM Departamento
+
+	--INSERT INTO Departamento
+
+	--( Numero, Nome, Local, Orcamento )
+
+	--VALUES
+
+	--( 10, 'Produção', 'Recife', 15000 ),
+	--( 20, 'Contábil', 'Olinda', 30000 ),
+	--( 30, 'Contábil', 'Olinda', 40000 ),
+	--( 40, 'Contábil', 'Recife', 50000 );
+
+	--SELECT * FROM Departamento;
+	--UPDATE Departamento
+	--SET Nome = 'Estoque'
+	--WHERE Nome = 'Contábil' AND Orcamento >= 35000;
+
+	--SELECT * FROM Departamento;
+	--DELETE  FROM Departamento
+	--WHERE LOCAL= 'RECIFE' OR ORCAMENTO >=40000;
+	--SELECT *FROM Departamento;
+
